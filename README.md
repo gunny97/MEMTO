@@ -6,14 +6,14 @@ Detecting anomalies in real-world multivariate time series data is challenging d
 
 
 <p align="center">
-<img src=".\png\MEMTO_figure" height = "350" alt="" align=center />
+<img src=".\png\MEMTO_figure.png" height = "350" alt="" align=center />
 </p>
 
 ## Main Result
 In the main experiment, we evaluate the performance of MEMTO on multivariate time series anomaly detection tasks by comparing it with 12 models.
 **MEMTO achieves SOTA in multivariate time series anomaly detection tasks.**
 <p align="center">
-<img src=".\png\MEMTO_results" height = "450" alt="" align=center />
+<img src=".\png\MEMTO_results.png" height = "450" alt="" align=center />
 </p>
 
 ## Citation
